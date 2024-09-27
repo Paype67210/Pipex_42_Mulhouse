@@ -34,6 +34,6 @@ Le projet **Pipex** est une introduction essentielle à la programmation systèm
 
 ### Ressources supplémentaires
 
-    [Guide sur la programmation avec pipes et processus](https://www.codequoi.com/pipe-une-methode-de-communication-inter-processus/)
-    [Documentation sur la gestion des processus en C](https://studylibfr.com/doc/1854682/la-gestion-des-processus---syst%C3%A8me-d-exploitation-et-lang...)
-    [Tutoriel sur les appels système Unix](https://fr.linux-console.net/?p=29788)
+- [Guide sur la programmation avec pipes et processus](https://www.codequoi.com/pipe-une-methode-de-communication-inter-processus/)
+- [Documentation sur la gestion des processus en C](https://studylibfr.com/doc/1854682/la-gestion-des-processus---syst%C3%A8me-d-exploitation-et-lang...)
+- [Tutoriel sur les appels système Unix](https://fr.linux-console.net/?p=29788)
